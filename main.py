@@ -1,9 +1,8 @@
-# Busca linhas repetidas e diferentes entre 2 arquivos no formato: 
+﻿# Busca linhas repetidas e diferentes entre 2 arquivos no formato: 
 # Nome;idade;e-mail
 # grava os resultados em arquivos 
 
 
-import itertools
 from carga import carga, grava_dados
 from processamento import processamento
 
